@@ -35,6 +35,8 @@ main h1 {
    color: white;
    border: none;
    border-radius: 10px;
+
+   margin: 10px 0;
 }
 
 .btn:hover {
@@ -44,4 +46,12 @@ main h1 {
 .start-button {
     display: flex;
     margin: 0 auto;
+}
+
+.responses {
+    margin: auto;
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
 }
