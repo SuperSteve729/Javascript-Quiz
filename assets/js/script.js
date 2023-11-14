@@ -1,11 +1,11 @@
 // Questions Section, all in order and question array matches in position with responses
 var questionsObj = {
     questions: [
-        "Question 1",
-        "Question 2",
-        "Question 3",
-        "Question 4",
-        "Question 5",
+        "Commonly used data types DO Not include:",
+        "The condition in an if / else statement is enclosed with ______.",
+        "Arrays in JavaScript can be used to store ______.",
+        "String values must be enclosed within ______ when being assigned to variables.",
+        "A very useful tool used during development and debugging for printing content to the debugger is:",
     ],
     
     /* 
@@ -16,39 +16,39 @@ var questionsObj = {
     */
     responses: [
         [
-            1,
-            "Answer 1",
-            "Answer 2",
-            "Answer 3",
-            "Answer 4"
-        ],
-        [
-            2,
-            "Answer 1",
-            "Answer 2",
-            "Answer 3",
-            "Answer 4"
+            3,
+            "1. strings",
+            "2. booleans",
+            "3. alerts",
+            "4. numbers"
         ],
         [
             3,
-            "Answer 1",
-            "Answer 2",
-            "Answer 3",
-            "Answer 4"
+            "1. quotes",
+            "2. curly brackets",
+            "3. parenthesis",
+            "4. square brackets"
         ],
         [
             4,
-            "Answer 1",
-            "Answer 2",
-            "Answer 3",
-            "Answer 4"
+            "1. numbers and strings",
+            "2. other arrays",
+            "3. booleans",
+            "4. all of the above"
         ],
         [
-            1,
-            "Answer 1",
-            "Answer 2",
-            "Answer 3",
-            "Answer 4"
+            3,
+            "1. commas",
+            "2. curly brackets",
+            "3. quotes",
+            "4. parenthesis"
+        ],
+        [
+            4,
+            "1. JavaScript",
+            "2. terminal/bash",
+            "3. for loops",
+            "4. console.log"
         ]
     ]
 }
