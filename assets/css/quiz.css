@@ -11,6 +11,7 @@ nav {
 nav a {
     position: relative;
     top: 1rem;
+    text-decoration: none;
 }
 
 main h1 {
@@ -54,4 +55,33 @@ main h1 {
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
+}
+
+.answer-sect {
+    width: 50%;
+    margin: 20px auto;
+    padding: 10px 10px;
+    border-top: 1px solid gray;
+    color: gray;
+    font-style: italic;
+    font-size: 2rem;
+    display: none;
+}
+
+#initials {
+    height: 20px;
+    font-size: 16px;
+}
+
+#submit-init {
+    background-color: purple;
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+    width: 5rem;
+    height: 2rem;
+}
+
+#submit-init:hover{
+    background-color: plum;
 }

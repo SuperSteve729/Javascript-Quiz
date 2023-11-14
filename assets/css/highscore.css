@@ -1,0 +1,37 @@
+body {
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main h1 {
+    margin: 20px auto;
+    text-align: center;
+}
+
+.score-section {
+    margin: 20px auto;
+    width: 50%;
+}
+
+#score-list li {
+    padding: 10px;
+}
+
+.button-selection {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.btn {
+    padding: 10px 15px; 
+    font-size: 24px;
+    background-color: purple;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    margin: 10px 0;
+}
+
+.btn:hover {
+    background-color: plum;
+}
