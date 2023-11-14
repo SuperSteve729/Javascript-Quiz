@@ -11,4 +11,4 @@ Some of the features include:
 An example of what the website looks like:
 ![quiz page example](./assets/images/quiz-example.png)
 
-And a link to the website: [JavaScript Quiz](ttps://supersteve729.github.io/Javascript-Quiz/)
+And a link to the website: [JavaScript Quiz](https://supersteve729.github.io/Javascript-Quiz/)
